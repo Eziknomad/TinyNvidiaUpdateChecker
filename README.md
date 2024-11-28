@@ -1,6 +1,6 @@
-![TNUC Logo](image.png)
-
 # TinyNvidiaUpdateChecker
+
+![TNUC Logo](image.png)
 
 TinyNvidiaUpdateChecker (TNUC for short) is a lightweight tool that checks for NVIDIA GPU drivers for Windows.
 
@@ -27,7 +27,7 @@ TinyNvidiaUpdateChecker (TNUC for short) is a lightweight tool that checks for N
 
 ### Install with [Scoop](https://scoop.sh/#/apps?s=2&d=1&o=true&p=1&q=tinynvidiaupdatechecker)
 
-```
+```bash
 scoop bucket add extras
 scoop install tinynvidiaupdatechecker
 ```
